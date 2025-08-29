@@ -1,0 +1,70 @@
+{
+  "pages": {
+    "/erp-codeerp/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/erp-codeerp/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/quem-somos/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/quem-somos/page.js"
+    ],
+    "/servicos/desenvolvimento-sistemas/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/servicos/desenvolvimento-sistemas/page.js"
+    ],
+    "/contato/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contato/page.js"
+    ],
+    "/servicos/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/servicos/page.js"
+    ],
+    "/servicos/desenvolvimento-aplicativos/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/servicos/desenvolvimento-aplicativos/page.js"
+    ],
+    "/servicos/desenvolvimento-sites/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/servicos/desenvolvimento-sites/page.js"
+    ],
+    "/servicos/gestao-agentes-ia/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/servicos/gestao-agentes-ia/page.js"
+    ],
+    "/servicos/desenvolvimento-rpa/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/servicos/desenvolvimento-rpa/page.js"
+    ],
+    "/servicos/consultoria-sistemas/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/servicos/consultoria-sistemas/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
+    ]
+  }
+}

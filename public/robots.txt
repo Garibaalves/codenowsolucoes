@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://codenowsolucoes.com.br/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Allow important pages
+Allow: /
+Allow: /quem-somos
+Allow: /servicos
+Allow: /servicos/*
+Allow: /erp-codeerp
+Allow: /contato
+
+# Crawl delay
+Crawl-delay: 1

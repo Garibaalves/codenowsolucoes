@@ -85,23 +85,23 @@ const QuemSomosPage = () => {
 
   const team = [
     {
-      name: 'João Silva',
-      role: 'CEO & Fundador',
+      name: 'Garibaldi Neto',
+      role: 'Desenvolvedor Senior e Fundador',
       description: 'Especialista em arquitetura de sistemas com mais de 10 anos de experiência em tecnologia.'
     },
     {
-      name: 'Maria Santos',
-      role: 'CTO',
+      name: 'Bernardo Martins',
+      role: 'Desenvolvedor Junior',
       description: 'Líder técnica com expertise em IA, machine learning e desenvolvimento de soluções inovadoras.'
     },
     {
-      name: 'Pedro Costa',
-      role: 'Head de Desenvolvimento',
+      name: 'Igor Portella',
+      role: 'Desenvolvedor Pleno',
       description: 'Especialista em desenvolvimento full-stack e metodologias ágeis de desenvolvimento.'
     },
     {
       name: 'Ana Oliveira',
-      role: 'Head de UX/UI',
+      role: 'UX/UI',
       description: 'Designer experiente focada em criar experiências digitais intuitivas e impactantes.'
     }
   ]
